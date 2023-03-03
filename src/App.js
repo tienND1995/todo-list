@@ -1,8 +1,8 @@
 import './App.css'
-import Todos from './Components/State/Todos/Todos'
+import TodoList from './Reducer/TodoList/TodoList'
 
 function App() {
-  return <Todos />
+  return <TodoList />
 }
 
 export default App
